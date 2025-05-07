@@ -5,3 +5,4 @@ requests
 beautifulsoup4
 colorama
 googlesearch-python
+Pillow>=8.1.1
